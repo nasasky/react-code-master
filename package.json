@@ -99,7 +99,7 @@
   "devDependencies": {
     "babel-preset-react-native-stage-0": "^1.0.1",
     "babel-preset-stage-2": "^6.24.1",
-    "node-sass": "^4.9.2",
+    "node-sass": "^4.13.1",
     "sass-loader": "^7.0.3"
   }
 }
